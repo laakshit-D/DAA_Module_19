@@ -5,18 +5,18 @@ To write a python program to implement quick sort using tha last element as pivo
 
 ## Algorithm
 1. Select a pivot element from the array (commonly the first or last element).
-2.Partition the array into two subarrays: elements less than pivot and elements greater than or equal to pivot.
-3.Place the pivot between the two subarrays at its correct position.
-4.Recursively apply Quick Sort to the left subarray.
-5.Recursively apply Quick Sort to the right subarray.
+2. Partition the array into two subarrays: elements less than pivot and elements greater than or equal to pivot.
+3. Place the pivot between the two subarrays at its correct position.
+4. Recursively apply Quick Sort to the left subarray.
+5. Recursively apply Quick Sort to the right subarray.
 
 ## Program:
 
 ```py
 /*
 Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: N.magesh
-Register Number: 212222040091 
+Developed by: LAAKSHIT D
+Register Number: 212222230071
 */
 ```
 
