@@ -5,10 +5,10 @@ To write a python program for a search function with parameter list name and the
 
 ## Algorithm
 1. Loop through each element in the tuple.
-2.Compare the current element with the target value x.
-3.If the element matches x, print that the element was found and stop the search.
-4.If no match is found after checking all elements, print that the element was not found.
-5.End the function.
+2. Compare the current element with the target value x.
+3. If the element matches x, print that the element was found and stop the search.
+4. If no match is found after checking all elements, print that the element was not found.
+5. End the function.
    
 
 ## Program:
