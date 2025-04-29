@@ -21,7 +21,7 @@ Register Number:  212222040091
 */
 ```
 
-```
+```py
 def merge_sort(inp_arr):
     if len(inp_arr) > 1:
         mid = len(inp_arr) // 2  
