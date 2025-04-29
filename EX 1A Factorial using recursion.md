@@ -4,24 +4,25 @@
 ## AIM:
 To write a program to create a factorial of a number recursively.
 
-## Algorithm
+## Algorithm:
+
 1. Input a number num from the user.
 
-2.Check if num is less than 0:
+2. Check if num is less than 0:
 
- 2.1 If yes, print "Factorial is not defined for negative numbers."
+2.1. If yes, print "Factorial is not defined for negative numbers."
 
- 2.2 If no, proceed to step 4.
+2.2. If no, proceed to step 4.
 
-3.Define a function factorial(n):
+3. Define a function factorial(n):
 
- 3.1 If n is 0 or 1, return 1.
+3.1 If n is 0 or 1, return 1.
 
- 3.2 Else, return n * factorial(n - 1) (i.e., call the function recursively).
+3.2 Else, return n * factorial(n - 1) (i.e., call the function recursively).
 
-4.Call the factorial(num) function.
+4. Call the factorial(num) function.
 
-5.Print the result as "Factorial of number {num} = {result}".
+5. Print the result as "Factorial of number {num} = {result}".
    
 
 ## Program:
