@@ -11,7 +11,8 @@ To write a python program to implement quick sort using tha last element as pivo
 5.Recursively apply Quick Sort to the right subarray.
 
 ## Program:
-```
+
+```py
 /*
 Program to implement implement quick sort using the last element as pivot on the list of float values.
 Developed by: N.magesh
@@ -19,7 +20,7 @@ Register Number: 212222040091
 */
 ```
 
-```
+```py
 def partition(array, low, high):
     pivot = array[low]
     start = low + 1
